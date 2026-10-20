@@ -1,0 +1,12 @@
+{
+  "name": "food-delivery-system",
+  "version": "1.0.0",
+  "description": "Food Delivery System for JavaScript Essentials 2 (OOP practical) by Sijabulile Ncube",
+  "main": "food-delivery.js",
+  "scripts": {
+    "start": "node food-delivery.js",
+    "test": "node tests.js"
+  },
+  "author": "Sijabulile Ncube <s.mabhena@gmail.com>",
+  "license": "ISC"
+}
