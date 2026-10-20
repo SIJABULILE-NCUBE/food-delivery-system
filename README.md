@@ -63,8 +63,8 @@ No libraries to install,it only needs Node.js.
 
 **App running (`node food-delivery.js`):**
 
-![App output](screenshots/app-output.png)
+![App output](screenshots/appoutput.png)
 
 **Tests running (`node tests.js`):**
 
-![Test output](screenshots/test-output.png)
+![Test output](screenshots/testoutput.png)
